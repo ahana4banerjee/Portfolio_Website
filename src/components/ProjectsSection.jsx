@@ -3,29 +3,29 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Quiz App",
-    description: "Created an interactive quiz platform with timed questions, scoring, and dynamic feedback",
-    tags: ["HTML", "CSS", "JavaScript", "APIs"],
-    demoUrl: "https://quiz-app-l0gi.onrender.com",
-    githubUrl: "https://github.com/ahana4banerjee/quiz-app",
+    title: "CareerLyze - AI Career Coach",
+    description: "CareerLyze is a smart and intuitive AI Career Coach that helps you navigate your professional journey with ease.",
+    tags: ["NextJS", "ShadcnUI", "NeonDB"],
+    demoUrl: "https://career-lyze.vercel.app/",
+    githubUrl: "https://github.com/ahana4banerjee/CareerLyze",
   },
   {
     id: 2,
-    title: "To-Do List App ",
+    title: "FinLens - AI Finance Tracker",
     description:
-      "Designed a minimalist task management app with functionality to add, delete, and update tasks in real time.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    demoUrl: "https://todo-list-app-ithg.onrender.com",
-    githubUrl: "https://github.com/ahana4banerjee/todo-list-app",
+      "FinLens is a modern finance tracker that helps you track expenses/income, scan receipts, import transactions in bulk, and get AI-driven financial guidance along with monthly scheduled reports and insights.",
+    tags: ["MERN", "TypeScript", "GeminiAI"],
+    demoUrl: "https://fin-lens-sooty.vercel.app/",
+    githubUrl: "https://github.com/ahana4banerjee/FinLens",
   },
   {
     id: 3,
-    title: "Pomodoro Timer App",
+    title: "Job Portal",
     description:
-      "A productivity timer web app based on the Pomodoro technique.Features include animations, sound notifications, custom durations, dark/light mode, task inputs, and pomodoro streak tracking.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    demoUrl: "https://pomodoro-timer-8fog.onrender.com",
-    githubUrl: "https://github.com/ahana4banerjee/pomodoro-timer",
+      "Allows users to register as Job Seekers or Recruiters, post and apply for jobs, upload resumes and profile photos using Cloudinary, and manage their job applications through an intuitive dashboard.",
+    tags: ["MERN", "Cloudinary", "Multer"],
+    demoUrl: "https://job-portal-sable-eight.vercel.app/",
+    githubUrl: "https://github.com/ahana4banerjee/JobPortal",
   },
 ];
 
