@@ -1,27 +1,25 @@
-# Portfolio_Website
+# 💼 My Portfolio Website
 
-💼 Personal Portfolio Website
-A sleek, responsive, and developer-focused portfolio website built using React and TailwindCSS. Showcasing my projects, skills, resume, and contact information — all in one place.
+Welcome to my personal portfolio website! This site showcases my projects, skills, and experience as a developer, built using modern web technologies.
 
-🚀 Features
-💻 Fully responsive design
+Deployed Link: https://portfolio-website-seven-roan-36.vercel.app/
 
-🌙 Light/Dark mode toggle 
+📸 Features
+- Fully responsive layout
 
-🧠 About me, Skills, Projects, and Contact sections
+- Smooth navigation & animations
 
-📁 Resume download/view option
+- Projects section with live links
 
-📬 Contact form with email integration 
+- Contact form
 
-🛠️ Tech Stack
-Frontend: React
+- Resume download
+  
 
-Styling: TailwindCSS
+## 🚀 Tech Stack
 
-Animations: Framer Motion, Lucide React
+- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Node.js, Express.js
+- **Deployment**: Vercel 
 
-Deployment: Render
 
-🙌 Acknowledgements
-As a part of my internship at Micro IT, This project helped me improve my frontend development and UI design skills using React and TailwindCSS.
