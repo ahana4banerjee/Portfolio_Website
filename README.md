@@ -1,4 +1,4 @@
-# Micro_IT_Portfolio_Project
+# Portfolio_Website
 
 💼 Personal Portfolio Website
 A sleek, responsive, and developer-focused portfolio website built using React and TailwindCSS. Showcasing my projects, skills, resume, and contact information — all in one place.
